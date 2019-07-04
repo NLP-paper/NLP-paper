@@ -1,1 +1,3 @@
 This folder contains the raw data for further analysis
+The data is a 2-dimension list whose single row is all txn of a specific customer,
+the entry of this 2-dimension list is a specific txn of a customer(row).
