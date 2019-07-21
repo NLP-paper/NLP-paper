@@ -1,1 +1,8 @@
-This folder contains py files
+Packages Version:
+
+tensorflow 1.14.0
+keras 2.2.4
+pandas 0.25.0
+numpy 1.16.4
+sklearn 0.20.0
+gensim 3.7.2
