@@ -10,7 +10,7 @@
 
 ## Project Time Line
 ### Phase 1.0
-1. We have two weeks (due 08/18/2019) to complete the draft of part one (background intro, lit review, findings intro) 
+1. We have three weeks (due 08/25/2019) to complete the draft of part one (background intro, lit review, findings intro) 
 2. We have two weeks (due 08/18/2019) to complete the draft of part two (model introduction)
 3. We have two weeks (due 08/18/2019) to complete the part three (Sythetic data Exploration)
 4. We have three weeks (due 08/25/2019) to complete the part four (Real data Exploration)
