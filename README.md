@@ -8,7 +8,7 @@
 ## Paper framework & Assigned task
 
 
-
+## Project Time Line
 ### Phase 1.0
 1. We have two weeks (due 08/18/2019) to complete the draft of part one (background intro, lit review, findings intro) 
 2. We have two weeks (due 08/18/2019) to complete the draft of part two (model introduction)
@@ -23,8 +23,8 @@
 3. We have three weeks (due 09/28/2019) to modify the paper and further diss
 ### phase 4.0
 1. After 09/28/2019 we will not modify our paper anymore.
-2. One week to complete cover letter
-3. One week to look for recomendation letter
+2. One week (due 09/05/2019) to complete cover letter
+3. One week (due 09/05/2019) to look for recomendation letter
 ### Notes:
 1. All assigned task should be written in word and we will organised well in Latex later.
 2. You are encouraged to diss with your group mates and make sure task can be done on due time.
