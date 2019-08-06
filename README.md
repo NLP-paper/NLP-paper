@@ -5,3 +5,20 @@
 4. Anyone who persists in the end can become the coauthor of this article. The order of coauthor's name will be voted by all coauthors.
 5. Read the most important PPT in the root folder:  PPT
 
+
+
+# All assigned task should be written in word and later on we will organised well in Latex.
+# You are encouraged to diss with your group mate and make sure task can be done on due time.
+#########Phase 1.0############
+1. We have two weeks (due 08/18/2019) to complete the draft of part one (background intro, lit review, findings intro) 
+2. We have two weeks (due 08/18/2019) to complete the draft of part two (model introduction)
+3. We have two weeks (due 08/18/2019) to complete the part three (Sythetic data Exploration)
+4. We have three weeks (due 08/25/2019) to complete the part four (Real data Exploration)
+#########Phase 2.0############
+1. We have two weeks (due 09/01/2019) to share everyone's work, diss each work and well written in Latex.
+2. We have three weeks (due 09/08/2019) to share the result of real data, diss together and well written in Latex
+#########Phase 3.0############
+1. We have two week (due 09/21/2019) to completed the part five (conclusion and future work)
+2. We have three weeks (due 09/28/2019) to well organized the format of this paper in Latex
+3. We have three weeks (due 09/28/2019) to modify the paper and further diss
+#########
