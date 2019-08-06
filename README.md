@@ -7,8 +7,7 @@
 
 
 
-## All assigned task should be written in word and later on we will organised well in Latex.
-## You are encouraged to diss with your group mate and make sure task can be done on due time.
+
 ### Phase 1.0
 1. We have two weeks (due 08/18/2019) to complete the draft of part one (background intro, lit review, findings intro) 
 2. We have two weeks (due 08/18/2019) to complete the draft of part two (model introduction)
@@ -25,3 +24,7 @@
 1. After 09/28/2019 we will not modify our paper anymore.
 2. One week to complete cover letter
 3. One week to look for recomendation letter
+### Notes:
+1. All assigned task should be written in word and we will organised well in Latex later.
+2. You are encouraged to diss with your group mates and make sure task can be done on due time.
+3. Your work will be shared with every member in this team, make sure your work can be well explained.
