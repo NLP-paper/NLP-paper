@@ -12,7 +12,7 @@ background + lit review + findings(SGY, XingYang, Kecheng, Xiaoxi)
 1. Matrix dicomposition: application-recomedation system + LSA. SVD, PCA (kecheng, XingYang)
 2. Optimization: NMF(SGY, yy), Funk-SVD (kecheng, yy, Xingyang)
 3. Generat-Model: LDA(SGY, Xiaoxi, Lily)
-4. detecting non-linear pattern: Auto-Encoder(Xiaoxi, kecheng), kernal-PCA(SGY, Xiaoxi, yy)
+4. detecting non-linear pattern: Auto-Encoder(Xiaoxi, Xingyang), kernal-PCA(SGY, Xiaoxi, yy)
 5. random projection(computation efficiency) (kecheng)
 ### part3: 
 sythetic data exploration(SGY, kecheng)
