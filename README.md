@@ -6,8 +6,23 @@
 4. Anyone who persists in the end can become the coauthor of this article. The order of coauthor's name will be voted by all coauthors.
 5. Read the most important PPT in the root folder:  PPT
 ## Paper framework & Assigned task
-
-
+### part1: 
+background + lit review + findings(SGY, XingYang, Kecheng, Xiaoxi)
+### part2: model introduction:
+1. Matrix dicomposition: application-recomedation system + LSA. SVD, PCA (kecheng, XingYang)
+2. Optimization: NMF(SGY, yy), Funk-SVD (kecheng, yy, Xingyang)
+3. Generat-Model: LDA(SGY, Xiaoxi, Lily)
+4. detecting non-linear pattern: Auto-Encoder(Xiaoxi, kecheng), kernal-PCA(SGY, Xiaoxi, yy)
+5. random projection(computation efficiency) (kecheng)
+### part3: 
+sythetic data exploration(SGY, kecheng)
+### part4: 
+real data exploration(kecheng, Lily)
+### part5: 
+findings + comclusion + future work
+### Tips:
+Each model needs a cleaer and in-depth explanation including the math-principle, algorithm time complexity, best application scenario... 
+it is better to write 200-300 words narratives with simple math formulas. I will upload a sample this week and please take a look.
 ## Project Time Line
 ### Phase 1.0
 1. We have three weeks (due 08/25/2019) to complete the draft of part one (background intro, lit review, findings intro) 
@@ -25,7 +40,7 @@
 1. After 09/28/2019 we will not modify our paper anymore.
 2. One week (due 09/05/2019) to complete cover letter
 3. One week (due 09/05/2019) to look for recomendation letter
-### Notes:
+### Tips:
 1. All assigned task should be written in word and we will organised well in Latex later.
 2. You are encouraged to diss with your group mates and make sure task can be done on due time.
 3. Your work will be shared with every member in this team, make sure your work can be well explained.
