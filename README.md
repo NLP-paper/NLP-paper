@@ -39,7 +39,7 @@ it is better to write 200-300 words narratives with simple math formulas. I will
 ### phase 4.0
 1. After 09/28/2019 we will not modify our paper anymore.
 2. One week (due 10/05/2019) to complete cover letter
-3. One week (due 10/25/2019) to look for recomendation letter
+3. One week (due 10/05/2019) to look for recomendation letter
 ### Tips:
 1. All assigned task should be written in word and we will organised well in Latex later.
 2. You are encouraged to diss with your group mates and make sure task can be done on due time.
