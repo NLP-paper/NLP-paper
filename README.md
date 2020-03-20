@@ -7,17 +7,17 @@
 5. Read the most important PPT in the root folder:  PPT
 ## Paper framework & Assigned task
 ### part1: 
-background + lit review + findings(SGY, XingYang, Kecheng, Xiaoxi)
+background + lit review + findings(SGY, XingYang, Frank, Xiaoxi)
 ### part2: model introduction:
-1. Matrix dicomposition: application-recomedation system + LSA. SVD, PCA (kecheng, XingYang)
-2. Optimization: NMF(SGY, yy), Funk-SVD (kecheng, yy, Xingyang)
+1. Matrix dicomposition: application-recomedation system + LSA. SVD, PCA (Frank, XingYang)
+2. Optimization: NMF(SGY, yy), Funk-SVD (Frank, yy, Xingyang)
 3. Generat-Model: LDA(SGY, Xiaoxi, Lily)
 4. detecting non-linear pattern: Auto-Encoder(Xiaoxi, Xingyang), kernal-PCA(SGY, Xiaoxi, yy)
-5. random projection(computation efficiency) (kecheng)
+5. random projection(computation efficiency) (Frank)
 ### part3: 
-sythetic data exploration(SGY, kecheng)
+sythetic data exploration(SGY, Frank)
 ### part4: 
-real data exploration(kecheng, Lily)
+real data exploration(Frank, Lily)
 ### part5: 
 findings + comclusion + future work
 ### Tips:
